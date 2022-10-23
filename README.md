@@ -2,5 +2,4 @@ It is a Public discord bot that allows to get information from a FiveM or RedM s
 
 I created this project alone, and unfortunately I don’t have time to finish it.
 
-
 This bot is not affiliated with Cfx.re 
