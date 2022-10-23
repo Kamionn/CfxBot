@@ -1,0 +1,30 @@
+{
+  "name": "cfx.bot_v1.2",
+  "version": "1.2.0",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamionn/CfxBot_V1.2",
+    "url_Automod": "https://github.com/ThatsLiamS/autoMod.git"
+  },
+  "keywords": [],
+  "author": "Kamion#1323",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "cfx-api": "^1.0.122",
+    "colors": "^1.4.0",
+    "discord-modals": "^1.3.7",
+    "discord.js": "^13.9.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.1",
+    "moment": "^2.29.4",
+    "outdent": "^0.8.0",
+    "topgg-autoposter": "^2.0.1"
+  }
+}

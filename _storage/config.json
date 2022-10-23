@@ -1,0 +1,24 @@
+{
+     "Discord": {
+       "Support_Link": "vyQBTVaHQ7",
+       "Owners": ["616252005689720835"],
+       "GuildID": "1001572266024382525",
+       "Prefix": "!",
+       "Color": "#e6a247",
+       "Version": "1.0.0"
+   },
+ 
+   "Presence": {
+       "activity": "servers.",
+       "type": "WATCHING",
+       "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+       "status": "dnd"
+   },
+ 
+   "CFX": {
+       "CfxID": "q8538p",  
+       "CfxIP": "",
+       "CfxPlayer": true,
+       "Description": "cfx.re/join/q8538p [Unity] cfx.re/join/p8r8x8 [Jsp] qrpm7v [Glife]"
+   }
+ }
