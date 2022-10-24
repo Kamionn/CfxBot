@@ -16,5 +16,10 @@
   ```
  node .
   ```
-###### Creator : *Kamion*. 
+## Information : 
+ ``` Discord Js 13.9 ```
+ ``` Node Js 17.7.1 ```
+ ``` Cfx-Api 1.0.122 ```
+ ``` Firebase 11.0.1 ```
+ #
 ###### Disclaimer : *This bot is not affiliated with Cfx.re*. 
