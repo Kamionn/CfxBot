@@ -1,9 +1,20 @@
-It is a Public discord bot that allows to get information from a FiveM or RedM server thanks to the id of its server it also allows to get information in real time on Cfx. 
+## What is CFX BOT ? 
+>*It is a Public discord bot that allows to get information from a FiveM or RedM server thanks to the id of its server it also allows to get information in real time on Cfx.* 
 
-I created this project alone, and unfortunately I don’t have time to finish it.
+## Progress : 
+- [x] SlashCommand
+- [ ] ContexMenu
+- [x] Online
+- [x] DataBase Json (Local)
+- [ ] DataBase FireBase (Public)
 
-npm i  --> Install 
-
-node . --> start 
-
-This bot is not affiliated with Cfx.re 
+## How to install ? 
+  ```
+ npm install
+  ```
+  
+  ```
+ node .
+  ```
+###### Creator : *Kamion*. 
+###### Disclaimer : *This bot is not affiliated with Cfx.re*. 
