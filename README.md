@@ -22,4 +22,4 @@
  ``` Cfx-Api 1.0.122 ```
  ``` Firebase 11.0.1 ```
  #
-###### Disclaimer : *This bot is not affiliated with [Cfx.re]([https://github.com/Kamionn/CfxBot/edit/main/README.md](https://cfx.re/))*. 
+###### Disclaimer : *This bot is not affiliated with [Cfx.re](https://cfx.re/)*. 
